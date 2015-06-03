@@ -6,5 +6,8 @@
   "authors": [
     "crypteya"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
 }
