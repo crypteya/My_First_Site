@@ -1,0 +1,10 @@
+{
+  "name": "my_first_site",
+  "version": "0.0.0",
+  "homepage": "https://github.com/crypteya/My_First_Site",
+  "description": "a would-you-rather type site or maybe a forum",
+  "authors": [
+    "crypteya"
+  ],
+  "license": "MIT"
+}
